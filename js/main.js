@@ -18,4 +18,4 @@ const numero = 21;
 console.log("numero");
 
 document.getElementById("Password").innerHTML =
-  "Alessia" + "Misciagna" + "Azzurro" + "21";
+  "nome" + "cognome" + "colore" + "numero";
