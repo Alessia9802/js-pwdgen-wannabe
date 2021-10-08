@@ -14,7 +14,7 @@ console.log("cognome");
 const colore = prompt("Qual è il tuo colore preferito?");
 console.log("colore");
 
-const numero = prompt("Scrivi numero 21");
+const numero = 21;
 console.log("numero");
 
 document.getElementById("Password").innerHTML =
