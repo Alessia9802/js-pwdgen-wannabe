@@ -17,7 +17,7 @@ console.log("colore");
 const numero = prompt("Scrivi numero 21");
 console.log("numero");
 
-document.getElementById("Alessia").innerHTML = "nome";
-document.getElementById("Misciagna").innerHTML = "cognome";
-document.getElementById("Azzurro").innerHTML = "colore";
-document.getElementById("21").innerHTML = "numero";
+document.getElementById("Alessia").innerHTML = "Alessia";
+document.getElementById("Misciagna").innerHTML = "Misciagna";
+document.getElementById("Azzurro").innerHTML = "Azzurro";
+document.getElementById("21").innerHTML = "21";
